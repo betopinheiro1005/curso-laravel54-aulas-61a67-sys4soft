@@ -1,3 +1,20 @@
+# Curso de Laravel 5.4 (Aulas 61 a 67)
+## SYS4SOFT (João Ribeiro)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)
+
+### Listagem de aulas  
+
+Aula 061 – Projeto para exercício de login - Parte 1  
+Aula 062 – Projeto para exercício de login - Parte 2  
+Aula 063 – Validação de formulários - Parte 1  
+Aula 064 – Validação de formulários - Parte 2  
+Aula 065 – Criação de senhas encriptadas - Hashing  
+Aula 066 – Inserir usuários na base de dados  
+Aula 067 – Verificar login de usuário  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
